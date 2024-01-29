@@ -1,0 +1,62 @@
+[
+  {
+    "transactionID": "11445",
+    "transactionTime": "2024-01-28 18:44",
+    "transactionAmount": "$686.81"
+  },
+  {
+    "transactionID": "11444",
+    "transactionTime": "2024-01-28 18:44",
+    "transactionAmount": "-$686.81"
+  },
+  {
+    "transactionID": "11443",
+    "transactionTime": "2024-01-28 18:44",
+    "transactionAmount": "$35.17"
+  },
+  {
+    "transactionID": "11442",
+    "transactionTime": "2024-01-28 18:44",
+    "transactionAmount": "-$35.17"
+  },
+  {
+    "transactionID": "11441",
+    "transactionTime": "2024-01-28 18:44",
+    "transactionAmount": "$84.79"
+  },
+  {
+    "transactionID": "11440",
+    "transactionTime": "2024-01-28 18:44",
+    "transactionAmount": "-$84.79"
+  },
+  {
+    "transactionID": "11439",
+    "transactionTime": "2024-01-28 18:40",
+    "transactionAmount": "$575.83"
+  },
+  {
+    "transactionID": "11438",
+    "transactionTime": "2024-01-28 18:40",
+    "transactionAmount": "-$575.83"
+  },
+  {
+    "transactionID": "11437",
+    "transactionTime": "2024-01-28 18:40",
+    "transactionAmount": "$165.10"
+  },
+  {
+    "transactionID": "11436",
+    "transactionTime": "2024-01-28 18:40",
+    "transactionAmount": "-$165.10"
+  },
+  {
+    "transactionID": "11435",
+    "transactionTime": "2024-01-28 18:40",
+    "transactionAmount": "$868.97"
+  },
+  {
+    "transactionID": "11434",
+    "transactionTime": "2024-01-28 18:40",
+    "transactionAmount": "-$868.97"
+  }
+]
